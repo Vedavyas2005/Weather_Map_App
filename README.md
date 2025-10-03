@@ -73,4 +73,4 @@ Show weather icons (cloud, rain, sun).
 Save favorite/pinned cities.
 Offline geocoding fallback if API fails.
 
-##💙 Built with Python, CustomTkinter, tkintermapview, and a lot of protien bars.
+## 💙 Built with Python, CustomTkinter, tkintermapview, and a lot of protien bars.
