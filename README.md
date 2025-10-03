@@ -1,4 +1,4 @@
-##🌍Weather Map App – CustomTkinter + TkinterMapView
+## 🌍Weather Map App – CustomTkinter + TkinterMapView
 
 Ever wanted to just type “Hyderabad” and instantly see it pinned on a world map, with real-time weather, and then smoothly zoom in/out like Google Maps — but all built in Python with no heavy backend? That’s exactly what this project does.
 
@@ -22,7 +22,7 @@ I built this for my placements to showcase how you can create a clean, modular, 
 
 💾 Map caching → tiles are cached locally, so map loads faster after first run.
 
-##🛠️ How to Run
+## 🛠️ How to Run
 
 **1. Clone this repo**
 ```bash
@@ -48,7 +48,7 @@ OPENWEATHER_API_KEY = "your_api_key_here"
 python app.py
 ```
 
-##🎥 How to Use
+## 🎥 How to Use
 Type a city name in the search bar → press Search & Pin.
 If there are multiple matches, pick the right one from the dropdown.
 Zoom in / zoom out with buttons (or mouse scroll).
@@ -56,7 +56,7 @@ Switch between light/dark mode.
 Toggle between metric and imperial units to see weather change.
 It’s that simple 🚀
 
-##💡 Why I built this
+## 💡 Why I built this
 I wanted something that looks cool in a demo but also shows:
 API integration (OpenWeatherMap for geocoding + weather)
 Interactive maps inside a Tkinter app
@@ -67,7 +67,7 @@ Perfect mix of software engineering + practical utility.
 ##📸 Demo (Screenshots / GIFs here)
 Demo video at test_video folder
 
-##🚀 Future Improvements
+## 🚀 Future Improvements
 Add 5-day weather forecast panel.
 Show weather icons (cloud, rain, sun).
 Save favorite/pinned cities.
